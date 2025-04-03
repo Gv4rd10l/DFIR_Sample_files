@@ -5,3 +5,4 @@ You will fing :
     windowns registry files;
     log files;
     volatile memory;
+    for pcap files analysis, i will advise you to visit the following website : https://www.malware-traffic-analysis.net/index.html, https://github.com/StopDDoS/packet-captures
